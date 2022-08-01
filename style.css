@@ -1,0 +1,40 @@
+body {
+    background: #d2d2c1 url("img/fundo.png");
+    font: 16px Arial, Helvetica, Sans-serif;
+    width: 900px;
+}
+
+#menu {
+    font-size: 22px;
+    padding: 30px 5px;
+    background-color: #D5DBDB;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #626567;
+    font-weight: bold;
+}
+
+#conteudo {
+    font-size: 22px;
+    padding: 5px;
+    background-color: white;
+}
+
+#conteudo h1 {
+    color: #626567;
+    font-size: 28px;
+}
+
+#conteudo p {
+    font-size: 16px;
+}
+
+#conteudo img {
+    border: 10px solid #D5DBDB;
+}
+
+#rodapé {
+    text-align: center;
+}
